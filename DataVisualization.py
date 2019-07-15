@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
 
-
-#Plotting percentage of women who received an engineering degree over years
  
 #importing bokeh and pandas
 from bokeh.plotting import figure
@@ -29,13 +26,12 @@ f.line(x,y)
 show(f)
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
+
 
 
 
